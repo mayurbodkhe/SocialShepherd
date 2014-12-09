@@ -1,0 +1,2 @@
+# Module com.ss.ui.SocialShepherdWidgetSet
+# RPC service class, partial path of RPC policy file
